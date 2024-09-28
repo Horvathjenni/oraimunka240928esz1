@@ -8,5 +8,9 @@ import hatodik
 #import tizenegy
 #tizenegy.tizenegyedikFeladat()
 
-import tizenhat
-tizenhat.tizenhatodikFeladat()
+#import tizenhat
+#tizenhat.tizenhatodikFeladat()
+
+import elagazasok
+#elagazasok.elso()
+elagazasokminta.masodik()
