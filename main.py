@@ -13,4 +13,4 @@ import hatodik
 
 import elagazasok
 #elagazasok.elso()
-elagazasokminta.masodik()
+elagazasok.masodik()

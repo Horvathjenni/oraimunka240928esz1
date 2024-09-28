@@ -11,5 +11,5 @@ def masodik():
 
     if (szam >=-9) and (szam <=9):
         megelozo = szam -1
-        rakovetkezo = sza +1
+        rakovetkezo = szam +1
         print(" A rákövetkező érték:"+str(rakovetkezo)+", a megelöző érték:"+str(megelozo))
